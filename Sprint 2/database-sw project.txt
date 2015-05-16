@@ -1,0 +1,2269 @@
+INSERT INTO player( club_idclub, uniform_no, name, surname, age, nation, goalkeeping, defence, passing, attack, transfer_value )
+
+VALUES( 1 , 1 , 'Fernando' , 'Muslera' , 28 , 'Uruguay' , 90 , 40 , 20 , 5 , 17000000 );
+
+
+INSERT INTO player( club_idclub, uniform_no, name, surname, age, nation, goalkeeping, defence, passing, attack, transfer_value )
+
+VALUES( 1 , 3 , 'Felipe' , 'Melo' , 31 , 'Brazil' , 25 , 75 , 80 , 70 , 8250000 );
+
+
+INSERT INTO player( club_idclub, uniform_no, name, surname, age, nation, goalkeeping, defence, passing, attack, transfer_value )
+
+VALUES( 1 , 4 , 'Hamit' , 'Altýntop' , 32 , 'Turkey' , 15 , 70 , 70 , 65 , 2500000 );
+
+
+INSERT INTO player( club_idclub, uniform_no, name, surname, age, nation, goalkeeping, defence, passing, attack, transfer_value )
+
+VALUES( 1 , 6 , 'Blerem' , 'Dzemaili' , 29 , 'Switzerland' , 15 , 64 , 69 , 68 , 2000000 );
+
+
+INSERT INTO player( club_idclub, uniform_no, name, surname, age, nation, goalkeeping, defence, passing, attack, transfer_value )
+
+VALUES( 1 , 8 , 'Selçuk' , 'Ýnan' , 30 , 'Turkey' , 20 , 68 , 86 , 76 , 8250000 );
+
+
+INSERT INTO player( club_idclub, uniform_no, name, surname, age, nation, goalkeeping, defence, passing, attack, transfer_value )
+
+VALUES( 1 , 9 , 'Umut' , 'Bulut' , 31 , 'Turkey' , 5 , 30 , 55 , 77 , 4000000 );
+
+
+INSERT INTO player( club_idclub, uniform_no, name, surname, age, nation, goalkeeping, defence, passing, attack, transfer_value )
+
+VALUES( 1 , 10 , 'Wesley' , 'Sneijder' , 30 , 'Netherlands' , 3 , 40 , 94 , 89 , 16000000 );
+
+
+INSERT INTO player( club_idclub, uniform_no, name, surname, age, nation, goalkeeping, defence, passing, attack, transfer_value )
+
+VALUES( 1 , 11 , 'Armindo' , 'Bruma' , 20 , 'Portugal' , 5 , 31 , 76 , 75 , 7000000 );
+
+
+INSERT INTO player( club_idclub, uniform_no, name, surname, age, nation, goalkeeping, defence, passing, attack, transfer_value )
+
+VALUES( 1 , 13 , 'Alex' , 'Telles' , 22 , 'Brazil' , 19 , 78 , 62 , 48 , 7200000 );
+
+
+INSERT INTO player( club_idclub, uniform_no, name, surname, age, nation, goalkeeping, defence, passing, attack, transfer_value )
+
+VALUES( 1 , 26 , 'Semih' , 'Kaya' , 23 , 'Turkey' , 21 , 86 , 46 , 28 , 8500000 );
+
+
+INSERT INTO player( club_idclub, uniform_no, name, surname, age, nation, goalkeeping, defence, passing, attack, transfer_value )
+
+VALUES( 1 , 21 , 'Aurelien' , 'Chedjou'  , 29 , 'Cameroon' , 19 , 81 , 44 , 24 , 7900000 );
+
+
+INSERT INTO player( club_idclub, uniform_no, name, surname, age, nation, goalkeeping, defence, passing, attack, transfer_value )
+
+VALUES( 1 , 38 , 'Sinan' , 'Bolat' , 26 , 'Turkey' , 76 , 32 , 26 , 8 , 1500000 );
+
+
+INSERT INTO player( club_idclub, uniform_no, name, surname, age, nation, goalkeeping, defence, passing, attack, transfer_value )
+
+VALUES( 1 , 55 , 'Sabri' , 'Sarýoðlu' , 30 , 'Turkey' , 16 , 76 , 62 , 32 , 2200000 );
+
+
+INSERT INTO player( club_idclub, uniform_no, name, surname, age, nation, goalkeeping, defence, passing, attack, transfer_value )
+
+VALUES( 1 , 17 , 'Burak' , 'Yýlmaz' , 29 , 'Turkey' , 6 , 23 , 55 , 89 , 12000000);
+
+
+INSERT INTO player( club_idclub, uniform_no, name, surname, age, nation, goalkeeping, defence, passing, attack, transfer_value )
+
+VALUES( 1 , 23 , 'Yasin' , 'Öztekin' , 27 , 'Turkey' , 9 , 23 , 78 , 65 , 3250000);
+
+
+INSERT INTO player( club_idclub, uniform_no, name, surname, age, nation, goalkeeping, defence, passing, attack, transfer_value )
+
+VALUES( 1 , 19 , 'Goran' , 'Pandev' , 31 , 'Macedonia' , 5 , 16 , 49 , 73 , 5750000 );
+
+
+INSERT INTO player( club_idclub, uniform_no, name, surname, age, nation, goalkeeping, defence, passing, attack, transfer_value )
+
+VALUES( 1 , 28 , 'Koray' , 'Gunter' , 20 , 'Turkey' , 13 , 72 , 52 , 15 , 2250000 );
+
+
+INSERT INTO player( club_idclub, uniform_no, name, surname, age, nation, goalkeeping, defence, passing, attack, transfer_value )
+
+VALUES( 1 , 29 , 'Olcan' , 'Adýn' , 29 , 'Turkey' , 12 , 21 , 80 , 68 , 5750000 );
+
+
+INSERT INTO player( club_idclub, uniform_no, name, surname, age, nation, goalkeeping, defence, passing, attack, transfer_value )
+
+VALUES ( 1 , 77 , 'Tarýk' , 'Camdal' , 23 , 'Turkey' , 14 , 75 , 52 , 21 , 4250000 );
+
+
+INSERT INTO player( club_idclub, uniform_no, name, surname, age, nation, goalkeeping, defence, passing, attack, transfer_value )
+
+VALUES( 1 , 67 , 'Eray' , 'Ýscan' , 23 , 'Turkey' , 73 , 41 , 12 , 2 , 700000 );
+
+
+
+
+
+
+
+
+
+
+
+INSERT INTO player( club_idclub, uniform_no, name, surname, age, nation, goalkeeping, defence, passing, attack, transfer_value )
+
+VALUES( 2 , 1 , 'Volkan' , 'Demirel' , 33 , 'Turkey' , 84 , 35 , 22 , 9 , 4500000 );
+
+
+INSERT INTO player( club_idclub, uniform_no, name, surname, age, nation, goalkeeping, defence, passing, attack, transfer_value )
+
+VALUES( 2 , 23 , 'Mert' , 'Gunok' , 25 , 'Turkey' , 76 , 29 , 21 , 8 , 1750000 );
+
+
+INSERT INTO player( club_idclub, uniform_no, name, surname, age, nation, goalkeeping, defence, passing, attack, transfer_value )
+
+VALUES( 2 , 54 , 'Erten' , 'Aksu' , 20 , 'Turkey' , 59 , 22 , 16 , 6 , 100000 );
+
+
+INSERT INTO player( club_idclub, uniform_no, name, surname, age, nation, goalkeeping, defence, passing, attack, transfer_value )
+
+VALUES( 2 , 88 , 'Caner' , 'Erkin' , 26 , 'Turkey' , 16 , 85 , 69 , 36 , 12000000 );
+
+
+INSERT INTO player( club_idclub, uniform_no, name, surname, age, nation, goalkeeping, defence, passing, attack, transfer_value )
+
+VALUES( 2 , 77 , 'Gokhan' , 'Gonul' , 29 , 'Turkey' , 18 , 82 , 70 , 33 , 8250000 );
+
+
+INSERT INTO player( club_idclub, uniform_no, name, surname, age, nation, goalkeeping, defence, passing, attack, transfer_value )
+
+VALUES( 2 , 22 , 'Bruno' , 'Alves' , 33 , 'Portugal' , 11 , 72 , 35 , 15 , 3750000 );
+
+
+INSERT INTO player( club_idclub, uniform_no, name, surname, age, nation, goalkeeping, defence, passing, attack, transfer_value )
+
+VALUES( 2 , 24 , 'Michal' , 'Kadlec' , 30 , 'CzechRepublic' , 10 , 68 , 22 , 9 , 2500000 );
+
+
+INSERT INTO player( club_idclub, uniform_no, name, surname, age, nation, goalkeeping, defence, passing, attack, transfer_value )
+
+VALUES( 2 , 2 , 'Egemen' , 'Korkmaz' , 32 , 'Turkey' , 13 , 75 , 36 , 11 , 3500000 );
+
+
+INSERT INTO player( club_idclub, uniform_no, name, surname, age, nation, goalkeeping, defence, passing, attack, transfer_value )
+
+VALUES( 2 , 53 , 'Serdar' , 'Kesimal' , 25 , 'Turkey' , 11 , 70 , 25 , 9 , 750000 );
+
+
+INSERT INTO player( club_idclub, uniform_no, name, surname, age, nation, goalkeeping, defence, passing, attack, transfer_value )
+
+VALUES( 2 , 5 , 'Mehmet' , 'Topal' , 28 , 'Turkey' , 14 , 60 , 78 , 29 , 11000000 );
+
+
+INSERT INTO player( club_idclub, uniform_no, name, surname, age, nation, goalkeeping, defence, passing, attack, transfer_value )
+
+VALUES( 2 , 26 , 'Alper' , 'Potuk' , 23 , 'Turkey' , 12 , 44 , 74 , 26 , 8000000 );
+
+
+INSERT INTO player( club_idclub, uniform_no, name, surname, age, nation, goalkeeping, defence, passing, attack, transfer_value )
+
+VALUES( 2 , 10 , 'Diego' , 'Ribas' , 29 , 'Brazil' , 9 , 26 , 79 , 75 , 6000000 );
+
+
+INSERT INTO player( club_idclub, uniform_no, name, surname, age, nation, goalkeeping, defence, passing, attack, transfer_value )
+
+VALUES( 2 , 20 , 'Emre' , 'Belozoglu' , 34 , 'Turkey' , 11 , 22 , 70 , 59 , 1500000 );
+
+
+INSERT INTO player( club_idclub, uniform_no, name, surname, age, nation, goalkeeping, defence, passing, attack, transfer_value )
+
+VALUES( 2 , 14 , 'Raul' , 'Meireles' , 31 , 'Portugal' , 6 , 22 , 71 , 55 , 7200000 );
+
+
+INSERT INTO player( club_idclub, uniform_no, name, surname, age, nation, goalkeeping, defence, passing, attack, transfer_value )
+
+VALUES( 2 , 38 , 'Mehmet' , 'Topuz' , 31 , 'Turkey' , 6 , 12 , 66 , 44 , 1700000 );
+
+
+INSERT INTO player( club_idclub, uniform_no, name, surname, age, nation, goalkeeping, defence, passing, attack, transfer_value )
+
+VALUES( 2 , 7 , 'Moussa' , 'Sow' , 28 , 'Senegalese' , 4 , 16 , 58 , 83 , 14000000 );
+
+
+INSERT INTO player( club_idclub, uniform_no, name, surname, age, nation, goalkeeping, defence, passing, attack, transfer_value )
+
+VALUES( 2 , 29 , 'Emmanuel' , 'Emenike' , 27 , 'Nigeria' , 9 , 22 , 62 , 79 , 12000000 );
+
+
+INSERT INTO player( club_idclub, uniform_no, name, surname, age, nation, goalkeeping, defence, passing, attack, transfer_value )
+
+VALUES( 2 , 11 , 'Dirk' , 'Kuyt' , 34 , 'Netherlands' , 16 , 36 , 64 , 80 , 2500000 );
+
+
+INSERT INTO player( club_idclub, uniform_no, name, surname, age, nation, goalkeeping, defence, passing, attack, transfer_value )
+
+VALUES( 2 , 9 , 'Pierre' , 'Webo' , 32 , 'Cameroon' , 14 , 38 , 63 , 82 , 2750000 );
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value )
+
+VALUES(2,21,'Selcuk','Sahin',33,'Turkey',11,45,67,29,450000);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(3,29,'Tolga','Zengin',31,'Turkey',84,26,23,11,4750000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(3,1,'Cenk','Gonen',26,'Turkey',75,21,15,9,1750000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(3,27,'Gunay','Guvenc',23,'Turkey',69,21,12,8,250000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(3,31,'Ramon','Motta',26,'Brazil',11,74,34,11,3750000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(3,2,'Serdar','Kurtulus',27,'Turkey',19,71,33,11,3150000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(3,19,'Pedro','Franco',23,'Colombia',12,72,29,8,4500000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(3,22,'Ersan','Gulum',27,'Turkey',15,73,22,7,4500000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(3,20,'Necip','Uysal',23,'Turkey',18,70,67,12,5000000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(3,3,'Ýsmail','Koybasi',25,'Turkey',9,68,38,8,3250000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(3,44,'Daniel','Opare',24,'Ghana',18,75,44,12,3000000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(3,10,'Olcay','Sahan',27,'Turkey',6,34,73,19,9250000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(3,7,'Gokhan','Tore',22,'Turkey',14,40,79,21,9000000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(3,13,'Atiba','Hutchinson',31,'Canada',11,58,75,15,3250000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(3,15,'Oguzhan','Ozyakup',22,'Turkey',5,12,74,22,6750000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(3,8,'Veli','Kavlak',26,'Austria',8,45,71,17,7350000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(3,5,'Jose','Sosa',29,'Argentina',9,14,76,34,8750000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(3,18,'Tolgay','Arslan',24,'Germany',11,15,73,20,2250000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(3,9,'Demba','Ba',29,'Senegal',4,9,42,86,12500000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(3,11,'Mustafa','Pektemek',26,'Turkey',8,11,25,74,4200000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(3,23,'Cenk','Tosun',23,'Turkey',9,10,23,74,7450000);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(4,12,'Harun','Tekin',25,'Turkey',70,29,11,4,1350000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(4,35,'Onurcan','Piri',20,'Turkey',62,19,8,2,150000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(4,1,'Sebastiaen','Frey',34,'France',72,31,14,8,850000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(4,22,'Sener','Ozbayrakli',24,'Turkey',19,70,25,7,5150000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(4,2,'Renato','Civelli',31,'Argentina',10,73,7,4,2750000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(4,23,'Aziz','Behich',24,'Turkey',9,70,21,7,1850000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(4,4,'Serdar','Aziz',24,'Turkey',12,74,12,8,4350000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(4,19,'Emre','Tasdemir',19,'Turkey',9,65,7,3,150000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(4,7,'Ozan','Tufan',19,'Turkey',9,29,74,8,5050000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(4,5,'Fernando','Belluschi',31,'Argentina',8,21,75,21,4850000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(4,16,'Volkan','Sen',27,'Turkey',9,19,71,24,1350000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(4,30,'Filipe','Josue',24,'Portugal',10,20,74,9,7450000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(4,20,'Samuel','Holmen',30,'Sweden',8,29,71,25,1850000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(4,6,'Samil','Cinaz',28,'Turkey',10,18,64,24,1550000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(4,9,'Jose','Fernandao',25,'Brazil',9,15,51,77,5250000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(4,94,'Cedric','Bakambu',23,'France',8,9,44,75,5450000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(4,10,'Enes','Unal',17,'Turkey',8,14,39,70,3150000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(4,8,'Bakaye','Traore',29,'Mali	',7,13,31,70,1250000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(4,33,'Ozan','Ipek',28,'Turkey',8,15,63,34,750000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(4,24,'Erugrul','Ersoy',17,'Turkey',10,59,31,4,350000);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(5,1,'Volkan','Babacan',26,'Turkey',72,12,4,2,4350000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(5,86,'Ufuk','Ceylan',28,'Turkey',65,11,7,1,310000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(5,55,'Faruk','Cakir',19,'Turkey',59,9,1,1,350000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(5,6,'Alexandru','Epureanu',28,'Moldova',1,71,21,9,2750000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(5,33,'Ugur','Ucar',27,'Turkey',5,71,31,12,2350000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(5,22,'Yalcin','Ayhan',32,'Turkey',8,69,15,7,1750000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(5,87,'Ferhat','Oztorun',27,'Turkey',9,70,18,4,1450000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(5,39,'Alparslan','Erdem',26,'Turkey',10,68,11,4,550000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(5,4,'Orhan','Ak',35,'Turkey',4,66,20,7,150000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(5,7,'Edin','Visca',24,'Bosnia and Herzegovina',7,39,72,21,3500000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(5,5,'Mahmut','Tekdemir',26,'Turkey',6,42,70,4,2750000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(5,29,'Marcio','Mussoro',31,'Brazil',8,32,71,7,2250000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(5,10,'Fransicko','Doka',30,'Bulgaria',7,29,70,8,1750000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(5,3,'Sedat','Agcay',33,'Turkey',10,30,66,8,320000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(5,40,'Rajko','Rotman',25,'Slovenia',10,28,69,7,1250000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(5,67,'Cenk','Sahin',20,'Turkey',8,29,70,8,1650000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(5,77,'Stephane','Badji',24,'Senegal',6,19,64,7,850000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(5,24,'Jeremy','Perbet',30,'France',6,9,51,71,2050000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(5,9,'Mehmet','Batdal',28,'Turkey',10,12,51,69,1250000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(5,23,'Semih','Senturk',31,'Turkey',8,14,41,72,950000);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(6,1,'Onur','Kývrak',26,'Turkey',85,26,11,8,12000000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(6,12,'Hakan','Arikan',32,'Turkey',70,19,8,4,700000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(6,13,'Ýbrahim','Demir',19,'Turkey',61,9,7,2,150000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(6,6,'Carl','Medjani',29,'Algeria',8,72,21,9,4250000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(6,3,'Jose','Bosingwa',32,'Portugal',9,71,18,7,3250000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(6,21,'Essaid','Belkalem',25,'Turkey',10,71,20,8,2250000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(6,4,'Aykut','Demir',26,'Turkey',8,73,21,4,3500000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(6,68,'Ýshak','Dogan',24,'Turkey',8,71,21,14,2750000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(6,15,'Ugur','Demirok',26,'Turkey',7,69,11,8,2250000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(6,8,'Mehmet','Ekici',24,'Turkey',5,39,80,10,5750000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(6,9,'Sefa','Yilmaz',24,'Turkey',8,29,73,60,4500000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(6,38,'Salih','Dursun',23,'Turkey',6,68,71,8,3500000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(6,10,'Ozer','Hurmaci',28,'Turkey',8,29,72,25,4250000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(6,99,'Erkan','Zengin',29,'Sweden',10,30,76,35,4500000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(6,11,'Kevin','Constant',27,'Guinea',9,19,75,30,4000000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(6,20,'Soner','Aydogdu',23,'Turkey',8,49,73,34,3250000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(6,18,'Deniz','Yilmaz',26,'Turkey',5,19,51,70,2250000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(6,28,'Waris','Majeed',23,'Ghana',5,29,50,73,2250000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(6,86,'Mustapha','Yatabare',28,'Mali',4,9,41,76,2750000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(6,7,'Oscar','Cardozo',31,'Paraguay',8,29,45,83,8000000);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(7,1,'Nihat','Sahin',25,'Turkey',65,21,11,4,850000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(7,63,'Nikolov','Mihaylov',26,'Bulgaria',66,15,7,4,650000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(7,21,'Muammer','Yildirim',24,'Turkey',60,9,6,4,50000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(7,3,'Loret','Sadiku',23,'Albania',8,70,21,8,1750000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(7,76,'Servet','Cetin',33,'Turkey',10,71,21,7,650000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(7,15,'Milan','Mitrovic',26,'Serbia',7,70,21,10,1550000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(7,6,'Gokcek','Vederson',33,'Turkey',9,72,11,5,600000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(7,30,'Serkan','Balci',31,'Turkey',8,70,21,5,1350000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(7,33,'Efe Halil','Ozaslan',24,'Turkey',5,69,21,4,1500000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(7,7,'Guven','Varol',33,'Turkey',5,39,69,24,350000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(7,5,'Murat','Ceylan',26,'Turkey',8,39,70,21,1150000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(7,55,'Abdul','Khalili',22,'Sweden',10,38,72,30,650000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(7,10,'Sidney','Tita',33,'Turkey',8,29,71,24,1350000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(7,13,'Oktay','Delibalta',29,'Turkey',10,40,72,34,1500000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(7,7,'Guven','Varol',33,'Turkey',6,30,71,8,300000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(7,58,'Ricardo','Pedriel',27,'Bolivia',9,19,51,73,650000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(7,9,'Marco','Futacs',24,'Hungary',8,22,41,74,1250000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(7,22,'Prejuce','Nakoulma',27,'Burkina Faso',8,20,38,73,1150000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(7,73,'Morais','Welliton',28,'Brazil',9,29,51,75,2050000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(7,11,'Sinan','Kaloglu',33,'Turkey',5,9,21,70,350000);
+
+
+
+
+
+
+
+
+
+
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(8,35,'Ferhat','Kaplan',25,'Turkey',64,15,8,3,100000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(8,1,'Ramazan','Kose',26,'Turkey',70,16,9,4,2000000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(8,44,'Ubeyd','Adiyaman',17,'Turkey',63,5,4,2,100000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(8,4,'Ahmet','Calik',20,'Turkey',21,71,22,5,3250000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(8,42,'Hakan','Aslantas',29,'Turkey',14,68,23,7,750000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(8,3,'Dusko','Tosic',29,'Serbia',12,74,15,9,3250000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(8,58,'Ugur','Ciftci',22,'Turkey',16,70,19,8,800000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(8,33,'Halil','Ýbrahim',21,'Turkey',14,68,15,5,550000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(8,45,'Hikmet','Balioglu',24,'Turkey',9,69,5,4,1250000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(8,8,'Radosav','Petrovic',25,'Serbia',11,45,72,24,3750000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(8,19,'Jean','Gosso',31,'Ivory Coast',4,19,71,28,1750000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(8,25,'Guido','Kocer',26,'Turkey',11,32,73,40,2500000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(8,20,'Doga','Kaya',30,'Turkey',10,45,69,22,1250000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(8,7,'Nemanja','Tomic',26,'Serbia',11,39,70,40,2250000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(8,13,'Alexander','Hleb',33,'Belarus',9,21,75,55,1250000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(8,18,'Liviu','Antal',25,'Romania',12,250,71,41,2500000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(8,11,'Mervan','Celik',24,'Turkey',8,12,34,73,2100000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(8,10,'Bogdan','Stancu',27,'Romania',11,22,35,75,5700000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(8,99,'Berat','Tosun',20,'Turkey',8,7,22,70,1500000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(8,22,'El','Kabir',26,'Netherlands',9,14,40,74,1260000);
+
+
+
+
+
+
+
+
+
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(9,1,'Kaya','Tarakci',33,'Turkey',62,11,5,3,150000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(9,13,'Mario','Felgueiras',28,'Portugal',70,9,7,2,2500000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(9,98,'Emre','Yilmaz',18,'Turkey',60,8,5,1,100000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(9,54,'Mehmet','Uslu',26,'Turkey',22,69,15,5,1000000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(9,44,'Elvis','Kokalovic',26,'Croatia',20,71,22,8,1250000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(9,18,'Benjamin','Fuchs',31,'Austria',15,66,22,8,700000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(9,4,'Ali','Turan',31,'Turkey',4,64,18,7,350000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(9,26,'Jagos','Vukovic',26,'Serbia',20,70,8,3,950000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(9,5,'Selim','Ay',23,'Turkey',14,73,14,7,2500000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(9,8,'Ali','Camdali',30,'Turkey',15,31,70,8,1700000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(9,11,'Gabriel','Torje',25,'Romania',15,25,72,69,2300000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(9,6,'Mehmet','Guven',27,'Turkey',14,20,71,26,2000000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(9,80,'Ugur','Ýnceman',33,'Turkey',14,12,66,14,600000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(9,17,'Recep','Aydin',24,'Turkey',15,15,68,24,1000000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(9,12,'May','Mahlangu',25,'South Africa',5,4,70,9,1800000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(9,7,'Omer','Sahiner',22,'Turkey',14,12,60,72,2500000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(9,99,'Hasan','Kabze',32,'Turkey',21,15,44,68,800000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(9,30,'Djalma','Campos',27,'Angola',9,8,7,75,4000000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(9,9,'Dimitar','Rangelov',31,'Bulgaria',15,9,7,67,600000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(9,19,'Ciprian','Marica',29,'Romania',14,9,40,72,2000000);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(10,1,'Zydrunas','Karcemarskas',31,'Lithuania',74,8,5,1,2300000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(10,34,'Eray','Birnican',26,'Turkey',62,11,5,1,140000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(10,35,'Bora','Sevim',30,'Turkey',61,5,4,2,100000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(10,5,'Senol','Can',31,'Turkey',15,67,21,9,800000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(10,25,'Luis','Chico',27,'Brazil',9,69,14,8,1000000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(10,3,'Elyasa','Sume',31,'Turkey',9,71,15,8,1500000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(10,15,'Gbenga','Arokoyo',22,'Nigeria',7,66,14,6,300000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(10,22,'Gokhan','Suzen',27,'Turkey',7,70,9,6,1300000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(10,41,'Ognjen','Vranjes',25,'Bosnia Herzogevina',8,68,19,8,800000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(10,21,'Mustafa','Durak',26,'Turkey',14,20,72,21,1300000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(10,6,'Erdem','Sen',25,'Turkey',14,20,71,18,1300000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(10,4,'John','Chibuike',26,'Nigeria',9,8,70,20,1000000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(10,8,'Oguzhan','Turk',28,'Turkey',11,9,66,8,450000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(10,7,'Emre','Nefiz',20,'Turkey',9,8,64,11,200000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(10,20,'Abdulkadir','Kayali',23,'Turkey',9,7,67,5,500000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(10,66,'Muhammed','Ýldiz',23,'Turkey',8,7,68,19,550000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(10,10,'Muhammet','Demir',22,'Turkey',9,7,5,75,3000000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(10,9,'Demba','Camara',20,'Guinea',8,7,5,67,500000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(10,87,'Luis','Leal',27,'Sao Tome',9,7,42,72,1800000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(10,27,'Serhan','Yilmaz',19,'Turkey',15,11,41,66,300000);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(11,18,'Oguz','Daglaroglu',35,'Turkey',69,15,8,7,250000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(11,44,'Emrah','Tuncel',27,'Turkey',69,14,7,5,550000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(11,1,'Zeki','Ayvaz',25,'Turkey',68,15,5,7,250000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(11,40,'Ferreia','Douglao',28,'Brazil',15,74,15,8,3500000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(11,4,'Ýsmail','Konuk',26,'Turkey',19,66,21,7,250000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(11,89,'Kadir','Keles',26,'Turkey',11,72,15,6,1700000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(11,24,'Tolga','Unlu',25,'Turkey',9,70,15,5,1000000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(11,2,'Orhan','Tasdelen',27,'Turkey',14,68,14,9,700000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(11,22,'Guray','Vural',26,'Turkey',15,35,74,18,2800000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(11,5,'Bilal','Kisa',31,'Turkey',14,29,72,62,1300000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(11,45,'Didier','Zokora',34,'Ivory Coast',9,48,73,8,2000000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(11,27,'De','Custodio',31,'Portugal',15,25,73,44,1700000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(11,6,'Merter','Yuce',29,'Turkey',14,9,69,14,750000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(11,20,'Ahmet','Cebe',31,'Turkey',9,8,68,29,650000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(11,39,'Yigit','Gokoglan',25,'Turkey',8,15,69,45,750000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(11,80,'Bruno','Mezenga',26,'Brazil',9,7,5,73,2000000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(11,11,'Theofanis','Gekas',34,'Greece',7,5,8,70,1000000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(11,32,'Lomana','Lualua',34,'Congo',8,5,15,71,1000000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(11,14,'Ricardo','VazTe',28,'Portugal',9,8,55,72,1800000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(11,17,'Mehmet','Akyuz',28,'Turkey',14,8,46,69,800000);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(12,16,'Ertugrul','Taskiran',25,'Turkey',72,9,9,7,2000000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(12,1,'Korcan','Celikay',27,'Turkey',71,8,7,5,1500000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(12,14,'Deniz','Oksuz',27,'Turkey',60,9,5,4,50000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(12,De,'Cicinho','34',,'Brazil',20,73,15,8,2350000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(12,80,'Umit','Kurt',23,'Turkey',14,74,15,7,3500000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(12,22,'Manuel','Costa',28,'Portugal',9,75,5,4,5000000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(12,58,'Ziya','Erda',26,'Turkey',8,74,39,7,3500000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(12,3,'Ibrahim','Ozturk',33,'Turkey',8,68,7,5,800000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(12,4,'Ibrahim','Toraman',33,'Turkey',9,68,41,7,800000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(12,92,'Aatif','Chahechoue',28,'Morocco',9,15,81,72,6000000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(12,91,'Mehdi','Taouil',31,'Morocco',8,7,68,8,350000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(12,21,'Burhan','Eser',29,'Turkey',14,25,74,48,2300000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(12,8,'Kadir','Bekmezci',29,'Turkey',15,14,73,14,2500000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(12,66,'Adem','Kocak',31,'Turkey',14,8,70,9,1300000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(12,37,'Hakan','Arslan',26,'Turkey',8,14,71,45,2100000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(12,23,'Aydin','Karabulut',26,'Turkey',14,20,74,9,1300000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(12,35,'Batuhan','Karadeniz',23,'Turkey',9,7,5,68,600000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(12,7,'John','Utaka',32,'Nigeria',8,14,54,70,850000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(12,55,'Ýbrahim','Akin',30,'Turkey',9,7,56,67,300000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(12,10,'Michael','Enaramo',29,'Nigeria',8,7,44,72,1800000);
+
+
+
+
+
+
+
+
+
+
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(13,15,'Andreas','Isaksson',33,'Sweden',72,24,5,4,2100000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(13,1,'Ertac','Ozbir',25,'Turkey',64,15,8,4,100000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(13,26,'Yusuf','Mersin',20,'Turkey',62,8,7,1,50000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(13,6,'Ryan','Donk',28,'Netherlands',18,75,21,8,4000000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(13,5,'Sancak','Kaplan',32,'Turkey',9,68,21,5,700000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(13,22,'Baris','Basdas',24,'Turkey',12,71,18,8,1800000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(13,4,'Ýlhan','Eker',31,'Turkey',9,69,28,9,950000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(13,18,'Veysel','Sari',26,'Turkey',9,72,62,9,2700000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(13,29,'Lasha','Dvali',19,'Georgia',8,66,25,8,400000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(13,67,'Orhan','Sam',28,'Turkey',9,67,60,20,800000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(13,88,'Andre','Castro',26,'Portugal',9,50,74,24,5000000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(13,11,'Oscar','Scarione',29,'Argentina',9,8,76,9,6000000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(13,55,'Tunay','Torun',24,'Turkey',8,7,73,55,3100000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(13,23,'Alpaslan','Ozturk',21,'Turkey',9,8,71,45,2300000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(13,39,'Ferhat','Kiraz',25,'Turkey',1,38,72,50,2750000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(13,27,'Ýsmail','Ayaz',19,'Turkey',8,7,60,25,50000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(13,8,'Ryan','Babel',28,'Netherlands',9,8,44,75,5000000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(13,16,'Sanharib','Malki',30,'Syria',8,5,42,72,2300000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(13,10,'Adem','Buyuk',27,'Turkey',8,6,44,76,5800000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(13,9,'Eren','Derdiyok',26,'Swiss',9,8,25,71,2200000);
+
+
+
+
+
+
+
+
+
+
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(14,1,'Serkan','Kirintili',29,'Turkey',71,9,8,5,1200000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(14,15,'Aykut','Ercetin',32,'Turkey',63,8,5,4,160000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(14,35,'Necati','Yilmaz',26,'Turkey',65,8,5,1,200000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(14,11,'Eren','Albayrak',23,'Turkey',9,71,8,5,1500000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(14,3,'Ousmane','Viera',28,'Ivory Coast',8,74,8,5,2500000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(14,23,'Giray','Kacar',29,'Turkey',9,72,7,14,1800000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(14,4,'Koray','Altinay',23,'Turkey',7,71,25,8,170000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(14,2,'Godfrey','Oboabona',24,'Nigeria',5,72,24,5,1700000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(14,53,'Ali','Adnan',21,'Turkey',8,75,59,2,3500000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(14,14,'Ludovic','Slyvestre',30,'Guadelope',8,65,68,8,1000000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(14,66,'Kivanc','Karakas',29,'Turkey',9,55,68,14,1000000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(14,7,'Sercan','Kaya',26,'Turkey',8,24,69,45,1300000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(14,20,'Murat','Duruer',26,'Turkey',8,34,71,25,1800000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(14,8,'Lodovic','Obraniak',30,'Poland',8,21,73,64,2300000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(14,55,'Umit','Korkmaz',29,'Turkey',9,8,68,8,800000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(14,16,'Kyle','Lafferty',27,'Ireland',8,5,6,72,2100000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(14,13,'Filip','Holosko',30,'Slovakia',9,5,64,73,2500000);
+
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(14,9,'Leonard','Kweuke',27,'Cameroon',8,15,42,74,2800000);
+
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(14,88,'Tevfik','Kose',26,'Turkey',9,19,55,71,1500000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(14,63,'Deniz','Kadah',28,'Turkey',8,5,58,70,1200000);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(15,25,'Ruud','Boffin',27,'Belgium',74,21,8,5,3500000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(15,1,'Ali','Vural',24,'Turkey',64,24,7,4,200000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(15,87,'Sinan','Oren',27,'Turkey',63,8,5,1,150000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(15,65,'Ahmet','Corekci',22,'Turkey',8,72,45,8,1800000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(15,6,'Berkay','Dabanli',24,'Turkey',7,70,34,7,1200000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(15,5,'Sezgin','Coskun',30,'Turkey',8,69,24,8,1000000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(15,3,'Diego','Angelo',28,'Brazil',7,74,50,8,3250000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(15,22,'Mustafa','Yumlu',27,'Turkey',8,73,20,5,3100000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(15,30,'Jerry','Akaminko',26,'Ghana',9,74,51,14,4000000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(15,92,'Goran','Causic',22,'Serbia',4,7,71,25,2300000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(15,4,'Raheem','Laval',24,'Nigeria',8,5,73,42,3200000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(15,54,'Serdar','Ozkan',27,'Turkey',9,27,69,32,1250000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(15,60,'Ozgur','Cek',23,'Turkey',5,50,70,15,2000000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(15,28,'Nzuzi','Toko',24,'Congo',9,25,68,30,1000000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(15,50,'Hurriyet','Gucer',33,'Turkey',1,45,66,8,700000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(15,15,'Ergun','Teber',29,'Turkey',8,65,40,8,600000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(15,18,'Fuenes','Mori',23,'Argentina',5,9,21,74,3300000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(15,7,'Omer','Sismanoglu',25,'Turkey',1,7,45,72,2100000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(15,19,'Emre','Gural',25,'Turkey',5,8,40,69,1300000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(15,32,'Ibrahim','Sissoko',23,'Ivory Coast',8,15,58,68,1000000);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(16,35,'Gokhan','Degirmenci',25,'Turkey',72,8,5,1,2000000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(16,22,'Zulkuf','Ozer',26,'Turkey',66,21,8,5,600000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(16,93,'Yusuf','Balcýoglu',21,'Turkey',62,5,2,1,100000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(16,3,'Anýl','Karaer',26,'Turkey',9,68,30,8,1000000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(16,88,'Caner','Osmanpasa',26,'Turkey',9,67,30,8,500000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(16,21,'John','Boye',27,'Ghana',9,72,30,8,2250000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(16,42,'Emre','Ozturk',22,'Turkey',9,70,30,8,1250000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(16,15,'Pape','Diakhate',30,'Senegal',9,73,30,8,2750000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(16,2,'Mahmut','Ozen',26,'Turkey',9,64,30,8,100000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(16,19,'Murat','Yildirim',27,'Turkey',7,29,71,18,2750000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(16,99,'Cenk','Ahmet',27,'Turkey',7,29,68,18,1300000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(16,91,'Yacouba','Sylla',24,'Mali',7,29,69,18,1400000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(16,11,'Royston','Drenthe',27,'Netherlands',7,29,71,18,1800000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(16,4,'Orhan','Gulle',22,'Turkey',7,29,67,18,1200000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(16,27,'Yasin','Pehlivan',25,'Austria',7,29,67,18,1000000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(16,36,'Silva','Edinho',32,'Portugal',5,17,39,71,2100000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(16,9,'Jacques','Zoua',23,'Turkey',5,17,39,68,1300000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(16,18,'Bjorn','Vleminckx',29,'Turkey',5,17,39,69,1400000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(16,38,'Ilhan','Parlak',27,'Turkey',5,17,39,73,2800000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(16,67,'Serdar','Gurler',23,'Turkey',5,17,39,72,2300000);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(17,99,'Boy','Waterman',30,'Netherlands',72,9,5,3,2300000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(17,21,'Abdulaziz','Demircan',23,'Turkey',62,8,5,3,100000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(17,1,'Aykut','Ozer',21,'Turkey',66,22,5,3,500000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(17,6,'Larrys','Mabiala',27,'Congo',9,73,25,8,3500000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(17,22,'Erdem','Ozgenc',30,'Turkey',9,67,25,8,1000000);
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(17,23,'Tanju','Kayhan',25,'Turkey',9,69,25,8,1300000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(17,3,'Murat','Akca',24,'Turkey',9,66,25,8,700000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(17,2,'Emre','Gungor',30,'Turkey',9,68,25,8,1000000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(17,24,'Emre','Ozkan',26,'Turkey',9,62,25,8,150000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(17,8,'Hakan','Ozmert',29,'Turkey',7,34,67,8,1300000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(17,35,'Musa','Cagiran',22,'Turkey',7,34,72,8,3250000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(17,7,'Abdou','Traore',26,'Burkina Faso',7,4,74,8,4500000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(17,39,'Erkan','Kas',23,'Turkey',7,34,70,8,2500000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(17,4,'Yigit','Incedemir',29,'Turkey',7,34,71,8,2800000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(17,9,'Ahmet','Ilhan',26,'Turkey',7,34,69,8,1750000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(17,20,'Furkan','Ozcal',24,'Turkey',7,34,70,8,2300000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(17,12,'Domi','Kumbela',30,'Congo',7,14,34,69,1800000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(17,25,'Joseph','Akpala',28,'Nigeria',7,14,28,70,1800000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(17,10,'Valentin','Viola',23,'Argentina',7,4,8,73,3300000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(17,90,'Alves','Kuca',25,'Cape Verde',7,14,29,67,1000000);
+
+
+
+
+
+
+
+
+
+
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(18,15,'Emrullah','Salk',27,'Turkey',66,14,9,8,200000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(18,99,'Andrija','Vukovic',31,'Croatia',69,14,9,8,700000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(18,89,'Ertugrul','Furkan',25,'Turkey',64,14,9,8,50000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(18,20,'Ante','Kulusic',28,'Croatia',8,70,26,8,2000000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(18,77,'Ugur','Akdemir',26,'Turkey',8,66,26,8,600000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(18,61,'Bulent','Cevahir',22,'Turkey',8,69,26,8,1300000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(18,17,'Okan','Alkan',22,'Turkey',8,68,26,8,1300000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(18,44,'Tomislav','Glumac',23,'Croatia',8,68,26,8,1200000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(18,23,'Abdulhamit','Yildiz',27,'Turkey',8,65,26,8,500000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(18,6,'Aykut','Ceviker',24,'Turkey',6,34,66,18,600000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(18,11,'Ilhan','Depe',22,'Turkey',6,34,65,18,450000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(18,5,'Eray','Ataseven',21,'Turkey',6,34,68,18,1300000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(18,12,'Vitor','Gomes',27,'Portugal',6,34,68,18,800000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(18,13,'Andre','Santos',25,'Portugal',6,34,70,18,1000000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(18,45,'Hasan','Hatipoglu',25,'Turkey',6,62,24,18,400000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(18,19,'Sercan','Yildirim',24,'Turkey',6,14,30,69,1500000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(18,9,'Gokhan','Unal',32,'Turkey',6,14,30,67,700000);
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(18,88,'Mugdat','Celik',24,'Turkey',6,14,30,68,900000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(18,50,'Ermin','Zec',26,'Bosnia Herzegovina',6,14,30,72,2100000);
+
+
+
+INSERT INTO player(club_idclub,uniform_no,name,surname,age, nation,goalkeeping,defence,passing,attack,transfer_value)
+
+VALUES(18,30,'Isaac','Promise',27,'Turkey',6,14,30,71,1800000);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
